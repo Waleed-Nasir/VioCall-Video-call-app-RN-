@@ -1,0 +1,273 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+MERGED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/553326366efb231cab36e3d3ddd198ba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/d3ae1cb59fffbfce93a800358fa3fe24/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/936fb23d86d667a804c419015afafc78/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:17:1-31:12
+MERGED from [:react-native-vector-icons] /home/admin-pc/z/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7a0035af232fcdf5d4ad9fdb62201df4/AndroidManifest.xml:17:1-22:12
+MERGED from [:react-native-linear-gradient] /home/admin-pc/z/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:exifinterface:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/e5f53d86f0d1061d15e31000b336953e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c805b3e51b6fc98dfacc26eabfbda1fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e4c38985959b1fecd6ce981321af0e3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e33ee6f358f9e9034e136ab781b60d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2ffc3f538d56f3933fe4a142579a9d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b3a1bb36e1d7e31ef48d23d5a68601b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ee8669eeb68611452c94e506520091f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86333e1106d7896c270a0512f0379755/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ec42cd8d5de72f8e6a19e2a823d8bb87/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/89694ea3ddf43c33a72935490711d9a1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e137accbb8930c9a5431d7ab735a4e2e/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a487bea93e22c5a52d4d1c5f375d6c79/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b74735eaf900f3a79c4d5bb7d6d7be00/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4c3b86c0574678db42ab742837e0e2dc/AndroidManifest.xml:1:1-3:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/201cd381d30fe29d85251e06f3a04534/AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2c92cfa86f13a46f95ec19ad9c3326b9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/638c21e1b26d887333e83d295cb1e45f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/1e6cb6c9f3e07022fc7a2800331f55e9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/31605628c806087fb4a226a85e62f4d3/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/f1c6f6ff93805c5c506676414ae19f64/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/120a2bc6982939a7d6dd66b5aa746af5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/93ab81be18de91af2bcf06729c3f3489/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2f5644166b00e0b93a3021588d3884a6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59f9655c3152812a6fc331dd9dc10973/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:2:5-26
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:9:5-26:19
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/553326366efb231cab36e3d3ddd198ba/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/553326366efb231cab36e3d3ddd198ba/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/d3ae1cb59fffbfce93a800358fa3fe24/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/d3ae1cb59fffbfce93a800358fa3fe24/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/936fb23d86d667a804c419015afafc78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/936fb23d86d667a804c419015afafc78/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b74735eaf900f3a79c4d5bb7d6d7be00/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b74735eaf900f3a79c4d5bb7d6d7be00/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4c3b86c0574678db42ab742837e0e2dc/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4c3b86c0574678db42ab742837e0e2dc/AndroidManifest.xml:2:3-17
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/201cd381d30fe29d85251e06f3a04534/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/201cd381d30fe29d85251e06f3a04534/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/638c21e1b26d887333e83d295cb1e45f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/638c21e1b26d887333e83d295cb1e45f/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/1e6cb6c9f3e07022fc7a2800331f55e9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/1e6cb6c9f3e07022fc7a2800331f55e9/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/31605628c806087fb4a226a85e62f4d3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/31605628c806087fb4a226a85e62f4d3/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/f1c6f6ff93805c5c506676414ae19f64/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/f1c6f6ff93805c5c506676414ae19f64/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:11:7-39
+	android:icon
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:12:7-41
+	android:allowBackup
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:13:7-34
+	android:theme
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:14:7-38
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:10:7-38
+activity#com.viocall.MainActivity
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:15:7-24:18
+	android:label
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:17:9-41
+	android:windowSoftInputMode
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:19:9-51
+	android:configChanges
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:18:9-79
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:16:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:20:9-23:25
+action#android.intent.action.MAIN
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:21:13-65
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:21:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:22:13-73
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:22:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:25:7-84
+	android:name
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:25:17-81
+uses-sdk
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/553326366efb231cab36e3d3ddd198ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-12.0.1.aar/553326366efb231cab36e3d3ddd198ba/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/d3ae1cb59fffbfce93a800358fa3fe24/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-12.0.1.aar/d3ae1cb59fffbfce93a800358fa3fe24/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/936fb23d86d667a804c419015afafc78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-12.0.1.aar/936fb23d86d667a804c419015afafc78/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:21:5-23:54
+MERGED from [:react-native-vector-icons] /home/admin-pc/z/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/admin-pc/z/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/react-native-0.57.0.aar/88a0152d66441ce19ed1396cc504c656/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7a0035af232fcdf5d4ad9fdb62201df4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7a0035af232fcdf5d4ad9fdb62201df4/AndroidManifest.xml:20:5-44
+MERGED from [:react-native-linear-gradient] /home/admin-pc/z/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-linear-gradient] /home/admin-pc/z/node_modules/react-native-linear-gradient/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:exifinterface:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/e5f53d86f0d1061d15e31000b336953e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/e5f53d86f0d1061d15e31000b336953e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c805b3e51b6fc98dfacc26eabfbda1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c805b3e51b6fc98dfacc26eabfbda1fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e4c38985959b1fecd6ce981321af0e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e4c38985959b1fecd6ce981321af0e3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e33ee6f358f9e9034e136ab781b60d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2e33ee6f358f9e9034e136ab781b60d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2ffc3f538d56f3933fe4a142579a9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/e2ffc3f538d56f3933fe4a142579a9d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b3a1bb36e1d7e31ef48d23d5a68601b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9b3a1bb36e1d7e31ef48d23d5a68601b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ee8669eeb68611452c94e506520091f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/6ee8669eeb68611452c94e506520091f/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86333e1106d7896c270a0512f0379755/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/86333e1106d7896c270a0512f0379755/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ec42cd8d5de72f8e6a19e2a823d8bb87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/ec42cd8d5de72f8e6a19e2a823d8bb87/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/89694ea3ddf43c33a72935490711d9a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/89694ea3ddf43c33a72935490711d9a1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e137accbb8930c9a5431d7ab735a4e2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/e137accbb8930c9a5431d7ab735a4e2e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a487bea93e22c5a52d4d1c5f375d6c79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/a487bea93e22c5a52d4d1c5f375d6c79/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b74735eaf900f3a79c4d5bb7d6d7be00/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/b74735eaf900f3a79c4d5bb7d6d7be00/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/201cd381d30fe29d85251e06f3a04534/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-license-12.0.1.aar/201cd381d30fe29d85251e06f3a04534/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2c92cfa86f13a46f95ec19ad9c3326b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2c92cfa86f13a46f95ec19ad9c3326b9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/638c21e1b26d887333e83d295cb1e45f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-license-12.0.1.aar/638c21e1b26d887333e83d295cb1e45f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/1e6cb6c9f3e07022fc7a2800331f55e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-12.0.1.aar/1e6cb6c9f3e07022fc7a2800331f55e9/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/31605628c806087fb4a226a85e62f4d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-vision-common-license-12.0.1.aar/31605628c806087fb4a226a85e62f4d3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/f1c6f6ff93805c5c506676414ae19f64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-12.0.1.aar/f1c6f6ff93805c5c506676414ae19f64/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/120a2bc6982939a7d6dd66b5aa746af5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/120a2bc6982939a7d6dd66b5aa746af5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/93ab81be18de91af2bcf06729c3f3489/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/93ab81be18de91af2bcf06729c3f3489/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2f5644166b00e0b93a3021588d3884a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2f5644166b00e0b93a3021588d3884a6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59f9655c3152812a6fc331dd9dc10973/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/59f9655c3152812a6fc331dd9dc10973/AndroidManifest.xml:20:5-44
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [:react-native-camera] /home/admin-pc/z/node_modules/react-native-camera/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-57
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-base-12.0.1.aar/bb849385f7167ac3702909085eadb54c/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/play-services-basement-12.0.1.aar/ea3ec716d47f12bf49b8f0402482eb92/AndroidManifest.xml:24:13-58
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/69e3351d735db6f2c00e72f78f1756bd/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /home/admin-pc/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/2cb6091d59a3efaf40e7e994fc5c11ca/AndroidManifest.xml:27:13-51
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/admin-pc/z/android/app/src/main/AndroidManifest.xml:1:1-28:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
