@@ -10,16 +10,19 @@ import React, { Component } from 'react';
   
   
   import { Platform, StyleSheet, Text, View,ImageBackground,TouchableOpacity } from 'react-native';
-  import { Container, Header, Content, Item, Input } from "native-base";
-  import Icon from 'react-native-vector-icons/FontAwesome';
+  import { Container, Header, Content, Item, Input,Icon } from "native-base";
+  // import Icon from 'react-native-vector-icons/FontAwesome';
+  import {Actions,ActionConst} from"react-native-router-flux"
 
 export default class Signin extends Component {
   render() {
     return (
       <ImageBackground
       style={{ width: "100%", height: "100%" }}
-      source={require("./img/d10.jpg")}
+      source={require("../img/d10.jpg")}
     >
+    {/* <View> */}
+      
       <View style={styles.container}>
       <View style={styles.formcontainer}>
             <Item style={styles.textcontainer}>
@@ -31,7 +34,7 @@ export default class Signin extends Component {
               <Input placeholder="password" />
             </Item>
       </View>
-            <TouchableOpacity style={styles.Buttoncontainer}>
+            <TouchableOpacity  onPress={()=>Actions.Signup()} style={styles.Buttoncontainer}>
              
                 <Text style={styles.welcome}>LOGIN</Text>
             </TouchableOpacity>
@@ -40,6 +43,7 @@ export default class Signin extends Component {
              
              <Text style={styles.welcome}>Don`t have a Accoutnt</Text>
          </View>
+         {/* </View> */}
       </ImageBackground>
     );
   }

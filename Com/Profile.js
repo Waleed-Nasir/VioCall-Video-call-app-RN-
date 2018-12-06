@@ -11,8 +11,9 @@ import React, { Component } from 'react';
 import { Platform, StyleSheet, Text, View, ImageBackground, TouchableOpacity } from 'react-native';
 import { Container, Header, Content, Item, Input } from "native-base";
 import Icon from 'react-native-vector-icons/FontAwesome';
+import {Actions,ActionConst} from"react-native-router-flux"
 import LinearGradient from "react-native-linear-gradient";
-import Hexa from './Componenets/Sytles/Ring'
+import Hexa from '.././Componenets/Sytles/Ring'
 const datas = [
   'Simon Mignolet',
   'Nathaniel Clyne',
@@ -28,7 +29,7 @@ export default class Pro extends Component {
     return (
       <ImageBackground
         style={{ width: "100%", height: "100%" }}
-        source={require("./img/d10.jpg")}
+        source={require("../img/d10.jpg")}
       >
         <LinearGradient
           start={{ x: 0, y: 0 }}
@@ -62,7 +63,7 @@ export default class Pro extends Component {
                   <Text style={styles.Subscript}>246</Text>
                   <Text style={styles.Super}>FOLLOWERS</Text>
                 </View>
-                <TouchableOpacity style={styles.Buttoncontainer}>
+                <TouchableOpacity onPress={()=>Actions.Contact()} style={styles.Buttoncontainer}>
 
                   <Text style={styles.welcome}>HELLO</Text>
                 </TouchableOpacity >
